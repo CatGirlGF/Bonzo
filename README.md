@@ -9,6 +9,10 @@ https://github.com/AcheronProject/AlexandriaLibrary<br/>
 https://github.com/keebio/Keebio-Parts.pretty<br/>
 https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master/MX_Only.pretty
 
+#### Gerbers
+
+The provided gerbers have been created according to the specifications of JLCpcb. For plate the size is 275.3mm * 113.4mm
+
 #### Acryllic case
 
 The case is designed to be cut out of 3mm acryllic and uses a 1.5mm switchplate.<br/>
