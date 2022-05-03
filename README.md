@@ -23,6 +23,7 @@ I have provided a compiled .hex and a layout json that will let you use the keyb
 The full QMK library is also provided incase it is needed.
 
 ### Hardware needed for a full build
+###### General parts
 * 1x PCB
 * 1x 1.5mm Switchplate
 * 3x 2U PCB mounted stabiliser
