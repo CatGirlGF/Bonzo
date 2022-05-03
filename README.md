@@ -1,5 +1,5 @@
 # Bonzo
-##### Custom pseudo 40% keyboard inspired by V4N4G0N
+##### Pro Micro based custom pseudo 40% keyboard inspired by V4N4G0N
 ![alt text](https://i.imgur.com/aKBtpmu.jpg "Bonzo")
 
 #### Kicad libraries used:
@@ -21,3 +21,22 @@ This case has been printed fully and works, but the screwholes are too tight and
 
 I have provided a compiled .hex and a layout json that will let you use the keyboard with VIA.<br/>
 The full QMK library is also provided incase it is needed.
+
+#### Hardware needed for a full build
+* 1x PCB
+* 1x 1.5mm Switchplate
+* 3x 2U PCB mounted stabiliser
+* 54x Kailh MX Hotswap Sockets
+* 54x MX style switch
+* 54x SOD-123 diodes
+* 1x Arduino Pro Micro or a drop-in replacement
+###### For acryllic case
+* 1x Of each layer listed in the acryllic case file.
+* 8x 4mm m2 female to female standoffs 
+* 16x m2 screws/bolts
+###### For 3DP case
+* 1x Top case
+* 1x Bottom case
+* 8x m2 screws/bolts
+###### You will also need keycaps to fit the layout pictured below 
+![alt text](https://i.imgur.com/XcQJnYB.png "layout")
