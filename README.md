@@ -1,5 +1,6 @@
 # Bonzo
 ##### Pro Micro based custom pseudo 40% keyboard inspired by V4N4G0N
+https://trashman.wiki/keyboards/v4n4g0n
 ![alt text](https://i.imgur.com/aKBtpmu.jpg "Bonzo")
 
 #### Kicad libraries used:
@@ -11,7 +12,8 @@ https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master/MX_Only.pretty
 #### Acryllic case
 
 The case is designed to be cut out of 3mm acryllic and uses a 1.5mm switchplate.<br/>
-I used 4mm female to female m2 standoffs from this listing: https://www.aliexpress.com/item/1005003106030065.html
+I used 4mm female to female m2 standoffs from this listing: https://www.aliexpress.com/item/1005003106030065.html<br/>
+https://i.imgur.com/W8KVRhH.png Picture for reference if the listing gets deleted
 
 #### 3D printable case WIP
 
