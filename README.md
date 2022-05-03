@@ -26,7 +26,7 @@ The full QMK library is also provided incase it is needed.
 * 1x PCB
 * 1x 1.5mm Switchplate
 * 3x 2U PCB mounted stabiliser
-* 54x Kailh MX Hotswap Sockets
+* 54x Kailh MX Hotswap Sockets or equivalent
 * 54x MX style switch
 * 54x SOD-123 diodes
 * 1x Arduino Pro Micro or a drop-in replacement
