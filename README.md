@@ -22,7 +22,7 @@ This case has been printed fully and works, but the screwholes are too tight and
 I have provided a compiled .hex and a layout json that will let you use the keyboard with VIA.<br/>
 The full QMK library is also provided incase it is needed.
 
-#### Hardware needed for a full build
+### Hardware needed for a full build
 * 1x PCB
 * 1x 1.5mm Switchplate
 * 3x 2U PCB mounted stabiliser
@@ -40,3 +40,6 @@ The full QMK library is also provided incase it is needed.
 * 8x m2 screws/bolts
 ###### You will also need keycaps to fit the layout pictured below 
 ![alt text](https://i.imgur.com/XcQJnYB.png "layout")
+
+# Disclaimer
+### Everything in this repo has been published with intent to allow others to build this keyboard if they want to. I take no responsibility of designs being incorrect or flawed. Check all the files yourself before you purchase anything. If something is broken or missing please let me know and ill try and see if i can fix the issue.
