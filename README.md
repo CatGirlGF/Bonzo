@@ -1,7 +1,11 @@
 # Bonzo
-Custom pseudo 40% keyboard inspired by V4N4G0N
+##### Custom pseudo 40% keyboard inspired by V4N4G0N
+![alt text](https://i.imgur.com/aKBtpmu.jpg "Bonzo")
 
-Kicad libraries used:
+##### Kicad libraries used:
+
 https://github.com/AcheronProject/AlexandriaLibrary
+
 https://github.com/keebio/Keebio-Parts.pretty
+
 https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master/MX_Only.pretty
