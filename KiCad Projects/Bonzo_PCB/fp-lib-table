@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri "E:/Piirilevyt/Bonzo/Bonzo v2/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri "E:/Piirilevyt/Bonzo/Bonzo v2/MX_Only.pretty")(options "")(descr ""))
+  (lib (name acheron_MXH)(type KiCad)(uri "E:/Piirilevyt/Bonzo/Bonzo v2/acheron_MXH.pretty")(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri E:/Piirilevyt/Bonzo/Bonzo/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name Silkscreenit)(type KiCad)(uri E:/Silkscreenit)(options "")(descr ""))
+)

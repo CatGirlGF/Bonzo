@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "E:/Piirilevyt/Bonzo/Bonzo/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "E:/Piirilevyt/Bonzo/Bonzo/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri E:/Piirilevyt/Bonzo/Bonzo/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
+)
