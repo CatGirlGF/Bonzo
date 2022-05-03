@@ -16,3 +16,8 @@ I used 4mm female to female m2 standoffs from this listing: https://www.aliexpre
 #### 3D printable case WIP
 
 This case has been printed fully and works, but the screwholes are too tight and have to be drilled.<br/> Updated case design with heat insrets and correct size holes at some point.
+
+#### Firmware 
+
+I have provided a compiled .hex and a layout json that will let you use the keyboard with VIA.<br/>
+The full QMK library is also provided incase it is needed.
