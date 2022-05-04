@@ -50,3 +50,6 @@ The full QMK library is also provided incase it is needed.
 
 # Disclaimer
 ### Everything in this repo has been published with intent to allow others to build this keyboard if they want to. The versions i have uploaded have been tested to work. Though i take no responsibility of designs being incorrect or flawed. Check all the files yourself before you purchase anything. If something is broken or missing please let me know and ill try and see if i can fix the issue.
+
+###### Also here is the cat who inspired the name and the silkscreen
+![alt text](https://i.imgur.com/2VJDWau.jpg "the boy")
