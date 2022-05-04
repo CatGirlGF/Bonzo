@@ -44,7 +44,7 @@ The full QMK library is also provided incase it is needed.
 ###### For 3DP case
 * 1x Top case
 * 1x Bottom case
-* 8x m2 screws/bolts
+* 8x m2 screws/bolts (i suggest self tapping screws so they dig into the case top plastic better)
 ###### You will also need keycaps to fit the layout pictured below 
 ![alt text](https://i.imgur.com/XcQJnYB.png "layout")
 
