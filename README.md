@@ -39,7 +39,7 @@ The full QMK library is also provided incase it is needed.
 * 1x Arduino Pro Micro or a drop-in replacement
 ###### For acryllic case
 * 1x Of each layer listed in the acryllic case file.
-* 8x 4mm m2 female to female standoffs 
+* 8x 4-6mm m2 female to female standoffs 
 * 16x m2 screws/bolts
 ###### For 3DP case
 * 1x Top case
