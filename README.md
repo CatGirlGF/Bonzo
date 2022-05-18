@@ -29,7 +29,7 @@ I have provided a compiled .hex and a layout json that will let you use the keyb
 The full QMK library is also provided incase it is needed.
 
 ### Hardware needed for a full build
-###### General parts
+###### General parts for wired
 * 1x PCB
 * 1x 1.5mm Switchplate
 * 3x 2U PCB mounted stabiliser
@@ -37,6 +37,17 @@ The full QMK library is also provided incase it is needed.
 * 54x MX style switch
 * 54x SOD-123 diodes
 * 1x Arduino Pro Micro or a drop-in replacement
+###### For Wireless
+* 1x PCB
+* 1x 1.5mm Switchplate
+* 3x 2U PCB mounted stabiliser
+* 54x Kailh MX Hotswap Sockets or equivalent
+* 54x MX style switch
+* 54x SOD-123 diodes
+* 1x nice!nano v2
+* 1x 3.7V lipo battery
+* 1x JS202011AQN Slide Switch (or similar)
+
 ###### For acryllic case
 * 1x Of each layer listed in the acryllic case file.
 * 8x 4-6mm m2 female to female standoffs 
@@ -44,7 +55,9 @@ The full QMK library is also provided incase it is needed.
 ###### For 3DP case
 * 1x Top case
 * 1x Bottom case
-* 8x m2 screws/bolts (i suggest self tapping screws so they dig into the case top plastic better)
+* 4x m2x15 & 4x m2x10 screws/bolts (i suggest self tapping screws so they dig into the case top plastic better)
+
+
 ###### You will also need keycaps to fit the layout pictured below 
 ![alt text](https://i.imgur.com/XcQJnYB.png "layout")
 
